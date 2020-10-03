@@ -1,0 +1,28 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipkrawiec/Katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipkrawiec/Katas/issues"
+  },
+  "homepage": "https://github.com/filipkrawiec/Katas#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
